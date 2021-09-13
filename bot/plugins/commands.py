@@ -21,7 +21,7 @@ async def start(bot, update):
             await update.reply_text(
                 text="<b>🤭 JOIN OUR UPDATES CHANNEL TO USE ME OTHER WISE NO USE OF ME FOR YOU 😒</b>",
                 reply_markup=InlineKeyboardMarkup([
-                    [ InlineKeyboardButton(text=" 🤭JOIN OUR CHANNEL🤭 ", url=f"https://t.me/{update_channel}")]
+                    [ InlineKeyboardButton(text=" 🤭JOIN OUR CHANNEL🤭 ", url=f"https://t.me/allmoviesmainchannel")]
               ])
             )
             return
@@ -55,7 +55,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    'Developer 👨‍💻', url="https://t.me/kunaldiwan"
+                                    'Developer 👨‍💻', url="https://t.me/afnanafsal"
                                 )
                         ]
                     ]
@@ -74,7 +74,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    'My developer 👨‍🔧', url="https://t.me/kunaldiwan"
+                                    'My developer 👨‍🔧', url="https://t.me/afnanafsal"
                                 )
                         ]
                     ]
@@ -93,7 +93,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    'Dev 👨‍🏭', url="https://t.me/kunaldiwan"
+                                    'Dev 👨‍🏭', url="https://t.me/afnanafsal"
                                 )
                         ]
                     ]
@@ -106,10 +106,10 @@ async def start(bot, update):
         return
 
     buttons = [[
-        InlineKeyboardButton('Developer 👨‍💻', url='https://t.me/kunaldiwan'),
-        InlineKeyboardButton('Channel 🔔', url ='https://t.me/DevelopedBots')
+        InlineKeyboardButton('Developer 👨‍💻', url='https://t.me/afnanafsal'),
+        InlineKeyboardButton('Channel 🔔', url ='https://t.me/allmoviesmainchannel')
     ],[
-        InlineKeyboardButton('Group 📣', url='https://t.me/DevelopedBotz')
+        InlineKeyboardButton('Group 📣', url='https://t.me/allmoviesreqgroup')
     ],[
         InlineKeyboardButton('Help ⚙', callback_data="help")
     ]]
