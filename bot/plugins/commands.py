@@ -118,7 +118,7 @@ async def start(bot, update):
     
     await bot.send_photo(
         chat_id=update.chat.id,
-        photo="https://telegra.ph/file/23204d4294ec7de02fed8.jpg",
+        photo="https://telegra.ph/file/3b669404749c82ec2e02e.jpg",
         caption=Translation.START_TEXT.format(
                 update.from_user.first_name),
         reply_markup=reply_markup,
@@ -151,7 +151,7 @@ async def help(bot, update):
 async def about(bot, update):
     
     buttons = [[
-        InlineKeyboardButton('Home ⚡', callback_data='start'),
+        InlineKeyboardButton('Home 💥', callback_data='start'),
         InlineKeyboardButton('Close 🔐', callback_data='close')
     ]]
     reply_markup = InlineKeyboardMarkup(buttons)
