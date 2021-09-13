@@ -82,7 +82,7 @@ You can deploy this bot anywhere.
 <details><summary>Deploy To VPS</summary>
 <p>
 <pre>
-git clone https://github.com/DevelopedBots/Auto-Filter-V2-Bot/tree/blob/main
+git clone https://github.com/Afnanafsal/Auto-Filter-V2-Bot/tree/blob/main
 cd Adv-Auto-Filter-Bot-ReMaster
 pip3 install -r requirements.txt
 # Change The Vars Of bot/__init__.py File Accordingly
