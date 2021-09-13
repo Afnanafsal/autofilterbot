@@ -12,7 +12,7 @@
   </a>  
 </p>
 
-You can easily find bot on tg as [@AutoFilterV2bot](https://t.me/AutoFilterV2bot) .
+You can easily find bot on tg as [@velakkarijanubot](https://t.me/velakkarijanubot) .
 
 __Just Sent Any Text As Query It Will Search For All Connected Chat's Files In Its MongoDB And Reply You With The Message Link As A Button__
 
@@ -21,8 +21,8 @@ __Just Sent Any Text As Query It Will Search For All Connected Chat's Files In I
 
 **__How To Use Me!?__**
 
-* -> Add me to any group and make me admin<br>
-* -> Add me to your channel as admin with full previlages
+* -> This bot is only for @allmoviesmainchannel<br>
+* -> you cant add me!
 
 **Bot Commands (Works Only In Groups) :**
 
@@ -92,7 +92,7 @@ python3 -m bot
 </details>
 
 ## Support   
-Join Our [Telegram Group](https://www.telegram.dog/DevelopedBotz) For Support/Assistance And Our [Channel](https://www.telegram.dog/CrazyBotsz) For Updates.   
+Join Our [Telegram Group](https://www.telegram.dog/allmoviesreqgroup) For Support/Assistance And Our [Channel](https://www.telegram.dog/CrazyBotsz) For Updates.   
    
 Report Bugs, Give Feature Requests There..   
 Do Fork And Star The Repository If You Liked It.
