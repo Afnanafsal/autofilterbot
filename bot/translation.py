@@ -12,6 +12,8 @@ This bot is only for @allmoviesmainchannel.
 
 For more details hit /help ....
 
+<b> powered by @DevelopedBots
+
 Maintained by <i><b><a href="https://t.me/afnanafsal">afnanafsal</a></b></i> 💖
 </b>"""    
     
