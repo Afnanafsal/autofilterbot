@@ -4,38 +4,29 @@
 
 class Translation(object):
     
-    START_TEXT = """<b>Hello {} - I'm Auto filter V2 Bot .
+    START_TEXT = """<b>Hello {} - I'm വേലക്കാരി ജാനു .
 
-I can help you to filter files automatically from channel to group .
+This bot is only for @allmoviesmainchannel.
 
-➡️ Just add me to your group and channel as admin .
+➡️ എന്നെ വേറെ ആർക്കും ഉപയോഗിക്കാൻ പറ്റില്ല... ഇനി വേണമെങ്കിൽ <b><a href="https://t.me/afnanafsal">afnan</a></b> ചോദിച്ചു നോക്കുക.
 
 For more details hit /help ....
 
-Powered by @DevelopedBots 💖
+Maintained by <i><b><a href="https://t.me/afnanafsal">afnanafsal</a></b></i> 💖
 </b>"""    
     
     HELP_TEXT = """
-<b>Hi , I am Auto filter Bot V2 . I can help you to filter files .</b>
+<b>Hi , I am വേലക്കാരി ജാനു .</b>
 
 <b><u>Helpful commands 👇</u></b>
 
-»» <code>/about</code> - Check about me ...
-
-»» <code>/add chat_id</code> - To connect a group with a channel .
-
-»» <code>/dell chat_id</code> - To disconnect a group with a channel.
-
-»» <code>/delall</code> - This command will disconnect all connected channel with the group and deletes all its file from DB .
-
-⚠️ Bot should be admin in both channel and group .
-
-<b>If you got any issues about Bot ask at @DevelopedBotz .</b>
+<b>»» എന്നെ വേറെ ആർക്കും ഉപയോഗിക്കാൻ പറ്റില്ല എന്ന് പറഞ്ഞില്ലെ പിന്നേം ചോദിക്കണോ😡... ഇനി വേണമെങ്കിൽ <b><a href="https://t.me/afnanafsal">afnan</a></b> ചോദിച്ചു നോക്കുക.
+</b>
 """
     
-    ABOUT_TEXT = """<b>➥ 🤖 Name</b> : <code> Auto Filter V2 Bot</code>
+    ABOUT_TEXT = """<b>➥ 🤖 Name</b> : <code> വേലക്കാരി ജാനു </code>
     
-<b>➥ 👨‍💻 Creator</b> : <b><a href="https://t.me/kunaldiwan">Kunal diwan</a></b>
+<b>➥ 👨‍💻 Creator</b> : <b><a href="https://t.me/afnanafsal">afnan afsal</a></b>
 
 <b>➥ 🏳‍🌈 Language</b> : <code>Python3</code>
 
