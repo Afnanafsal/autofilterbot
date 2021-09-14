@@ -8,11 +8,11 @@ class Translation(object):
 
 This bot is only for @allmoviesmainchannel.
 
-➡️ എന്നെ വേറെ ആർക്കും ഉപയോഗിക്കാൻ പറ്റില്ല... ഇനി വേണമെങ്കിൽ <b><a href="https://t.me/afnanafsal">afnan</a></b> ചോദിച്ചു നോക്കുക.
+➡️ എന്നെ വേറെ ആർക്കും ഉപയോഗിക്കാൻ പറ്റില്ല... ഇനി വേണമെങ്കിൽ <i><a href="https://t.me/afnanafsal">afnan</a></i></b> ചോദിച്ചു നോക്കുക.
 
-For more details hit /help ....
+<b> For more details hit /help ....
 
-<b> powered by @DevelopedBots
+Powered by @DevelopedBots
 
 Maintained by <i><b><a href="https://t.me/afnanafsal">afnanafsal</a></b></i> 💖
 </b>"""    
