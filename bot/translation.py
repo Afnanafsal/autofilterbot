@@ -10,7 +10,7 @@ This bot is only for @allmoviesmainchannel.
 
 ➡️ നിനക്ക് എന്നെ ഉപയോഗിക്കാൻ കഴിയില്ലെന്ന് ഞാൻ പറഞ്ഞു. നിങ്ങൾക്ക് എന്നെ ഉപയോഗിക്കണമെങ്കിൽ അദ്ദേഹത്തോട് ചോദിക്കൂ👉 <b> <a href="https://t.me/afnanafsal"> afnan </a> </b>
 </b>
-I told you you cant use me. if you want use me ask him👉 <b><a href="https://t.me/afnanafsal">afnan</a></b> 
+<b> I told you you cant use me. if you want use me ask him👉 <b><a href="https://t.me/afnanafsal">afnan</a></b> 
 </b>
 
 <b> For more details hit /help ....
@@ -26,7 +26,7 @@ Maintained by <i><b><a href="https://t.me/afnanafsal">afnanafsal</a></b></i> �
 <b><u>Helpful commands 👇</u></b>
 
 <b>»» എന്നെ വേറെ ആർക്കും ഉപയോഗിക്കാൻ പറ്റില്ല എന്ന് പറഞ്ഞില്ലെ പിന്നേം ചോദിക്കണോ😡... ഇനി വേണമെങ്കിൽ <b><a href="https://t.me/afnanafsal">afnan</a></b> ഇനോട് ചോദിച്ചു നോക്കുക.
-</b>
+</br>
 I told you,you cant use me. if you want use me ask him👉 <b><a href="https://t.me/afnanafsal">afnan</a></b> 
 </b>
 """
