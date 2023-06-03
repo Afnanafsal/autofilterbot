@@ -19,9 +19,9 @@ async def start(bot, update):
         except UserNotParticipant:
             #await update.reply_text(f"Join @{update_channel} To Use Me")
             await update.reply_text(
-                text="<b>🤭 JOIN OUR UPDATES CHANNEL TO USE ME OTHER WISE NO USE OF ME FOR YOU 😒</b>",
+                text="<b>🤭 JOIN OUR MAIN CHANNEL TO USE ME OTHER WISE NO USE OF ME FOR YOU 😒</b>",
                 reply_markup=InlineKeyboardMarkup([
-                    [ InlineKeyboardButton(text=" 🤭JOIN OUR CHANNEL🤭 ", url=f"https://t.me/{update_channel}")]
+                    [ InlineKeyboardButton(text=" 🤭JOIN OUR CHANNEL🤭 ", url=f"https://t.me/allmoviesmainchannel")]
               ])
             )
             return
@@ -55,7 +55,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    'Developer 👨‍💻', url="https://t.me/kunaldiwan"
+                                    'Developer 👨‍💻', url="https://t.me/afnanafsal"
                                 )
                         ]
                     ]
@@ -74,7 +74,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    'My developer 👨‍🔧', url="https://t.me/kunaldiwan"
+                                    'My developer 👨‍🔧', url="https://t.me/afnanafsal"
                                 )
                         ]
                     ]
@@ -93,7 +93,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    'Dev 👨‍🏭', url="https://t.me/kunaldiwan"
+                                    'Dev 👨‍🏭', url="https://t.me/afnanafsal"
                                 )
                         ]
                     ]
@@ -106,10 +106,10 @@ async def start(bot, update):
         return
 
     buttons = [[
-        InlineKeyboardButton('Developer 👨‍💻', url='https://t.me/kunaldiwan'),
-        InlineKeyboardButton('Channel 🔔', url ='https://t.me/DevelopedBots')
+        InlineKeyboardButton('Developer 👨‍💻', url='https://t.me/afnanafsal'),
+        InlineKeyboardButton('Channel 🔔', url ='https://t.me/allmoviesmainchannel')
     ],[
-        InlineKeyboardButton('Group 📣', url='https://t.me/DevelopedBotz')
+        InlineKeyboardButton('Group 📣', url='https://t.me/allmoviesreqgroup')
     ],[
         InlineKeyboardButton('Help ⚙', callback_data="help")
     ]]
@@ -118,7 +118,7 @@ async def start(bot, update):
     
     await bot.send_photo(
         chat_id=update.chat.id,
-        photo="https://telegra.ph/file/23204d4294ec7de02fed8.jpg",
+        photo="https://telegra.ph/file/3b669404749c82ec2e02e.jpg",
         caption=Translation.START_TEXT.format(
                 update.from_user.first_name),
         reply_markup=reply_markup,
@@ -151,7 +151,7 @@ async def help(bot, update):
 async def about(bot, update):
     
     buttons = [[
-        InlineKeyboardButton('Home ⚡', callback_data='start'),
+        InlineKeyboardButton('Home 💥', callback_data='start'),
         InlineKeyboardButton('Close 🔐', callback_data='close')
     ]]
     reply_markup = InlineKeyboardMarkup(buttons)
